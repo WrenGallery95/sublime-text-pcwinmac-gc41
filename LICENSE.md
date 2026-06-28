@@ -1,4 +1,4 @@
-# 
+# Élite Sublime Text preajustes para Mac OS | Último Sublime Text preajustes para PC Windows. Con clonación de repositorios y caché de construcción — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
